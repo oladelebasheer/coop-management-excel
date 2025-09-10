@@ -1,2 +1,1 @@
-# coop-management-excel
-Excel Cooperative Management System
+# Excel Cooperative Management System

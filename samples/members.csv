@@ -1,0 +1,6 @@
+MemberID,FullName,Gender,Phone,Email,DateJoined,Status
+M001,OLAYIWOLA KEHINDE,Male,08031234567,kehinde@example.com,2023-01-10,Active
+M002,OLAYIWOLA DAUDA,Male,08031234568,dauda@example.com,2023-01-10,Active
+M003,YESIFU ADISA,Male,08031234569,adisa@example.com,2023-02-15,Active
+M004,ALIRU OLAYIWOLA,Male,08031234570,olayiwola@example.com,2023-03-01,Inactive
+M005,YUSUF OGIRIMO,Male,08031234571,ogirimo@example.com,2023-03-12,Active

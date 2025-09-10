@@ -44,7 +44,7 @@ No VBA required. Works with **Microsoft Excel 2019 / Microsoft 365**.
 
 ## 🛡️ License
 
-This project is released under the **MIT License**.  
+This project is released under the **DeleSoft Technology**.  
 You are free to use, modify, and share with attribution.  
 
 ---
